@@ -1,0 +1,9 @@
+smtpserver: smtp.qq.com
+email: 454216847@qq.com
+password: rveqtvcdndukbhaa
+
+sender: 454216847@qq.com
+receives: 454216847@qq.com
+
+subject: Cucumber_countdown report
+content: test report
